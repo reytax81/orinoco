@@ -1,0 +1,22 @@
+{
+  "name": "orinoco",
+  "version": "1.0.0",
+  "description": "site de vente en ligne",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reytax81/orinoco.git"
+  },
+  "author": "yann boucaret",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reytax81/orinoco/issues"
+  },
+  "homepage": "https://github.com/reytax81/orinoco#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.3"
+  }
+}
