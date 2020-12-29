@@ -9896,3 +9896,11 @@ h3 {
     border-color: #dee2e6;
   }
 }
+.list-inline {
+  margin-left: 25%;
+  margin-top: 5%;
+}
+
+.card {
+  margin-top: 2%;
+}
